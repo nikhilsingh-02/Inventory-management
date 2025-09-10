@@ -1,6 +1,6 @@
 **Overview**
 
-This program manages a simple stock and inventory database for a project I made in class 12th. It uses MySQL as the database backend and Python's mysql.connector module to interact with the database. 
+This program manages a simple stock and inventory database for a project I made in class 11th. It uses MySQL as the database backend and Python's mysql.connector module to interact with the database. 
 The main objective is to create and maintain three tables: Stock, Condemnation, and Issue, to store and manage the data related to product stocks, condemnations, and issued items.
 
 **Features**
